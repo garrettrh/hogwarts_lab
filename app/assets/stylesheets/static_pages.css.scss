@@ -1,0 +1,41 @@
+// Place all the styles related to the StaticPages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+$bg-ht: 100px;
+$bg-width: 100px;
+
+#welcome
+{
+	padding-top: 50px;
+	color: gold;
+	background-color: black;
+}
+
+#students 
+{
+	color: black;
+}
+
+#houses
+{
+	color: gold;
+	background-color: black;
+}
+
+.ron
+{
+	background-image: url('assets/HPCharacterSprite.jpg');
+	background-position-x: 200px;
+	background-position-y: 200px;
+}
+
+.harry
+{
+	
+}
+
+.hermione
+{
+	
+}
